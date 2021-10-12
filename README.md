@@ -15,7 +15,7 @@ Oi!!! Eu sou Naiara Nunes👋
   <img align="center" alt="naiara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="naiara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="naiara-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="right" alt="pikachu" height="150" style="border-radius:50px;" src="https://1.bp.blogspot.com/-Qc1RIrpir_g/V6xg4wNTLZI/AAAAAAAAPQQ/J-   JeXCYtvxc9gadqd3c37v9cYNqdap7OwCLcB/s1600/Pikatchu_Pokemon.png">
+  <img align="right" alt="pikachu" height="150" style="border-radius:50px;" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Pikachu-com-Fundo-Transparente.png">
   
 </div>
   
