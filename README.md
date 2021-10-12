@@ -1,5 +1,5 @@
 Oi!!! Eu sou Naiara Nunes👋
-- 👩‍💻 Desenvolvedora Web Front-end Junior
+- 👩‍💻 Estudando Linguagens para desenvolvmento Web
 - 😄 Pronomes:Ela/dela
 ##
 <div align="left">
