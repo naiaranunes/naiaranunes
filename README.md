@@ -26,7 +26,8 @@ Oi!!! Eu sou Naiara Nunes👋
   <a href = "mailto:nunesnaaiara@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/naiara-nunes-de-souza-b3bb8a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/nunes_naaiara" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
- (https://github.com/naiaranunes/naiaranunes/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/naiaranunes/naiaranunes/blob/output/github-contribution-grid-snake.svg)
+ 
  
   
 </div>
