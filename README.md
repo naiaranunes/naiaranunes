@@ -1,6 +1,6 @@
 Oi!!! Eu sou Naiara Nunes👋
 - 👩‍💻 Estudando Linguagens para desenvolvmento Web
-- 😄 Pronomes:Ela/dela
+- 😄 "Um mediano constante é melhor que um prodígio instável"
 ##
 <div align="left">
   <a href="https://github.com/naiaranunes">
@@ -11,6 +11,7 @@ Oi!!! Eu sou Naiara Nunes👋
 ##
 
 <div style="display: inline_block"><br>
+  <h1>Minhas Skills 😄 </h1>
   <img align="center" alt="naiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="naiara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="naiara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
