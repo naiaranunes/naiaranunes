@@ -1,6 +1,6 @@
 Oi!!! Eu sou Naiara Nunes👋
 - 👩‍💻 Estudando Linguagens para desenvolvmento Web
-- 😄 "Um mediano constante é melhor que um prodígio instável"
+- 😉 "Um mediano constante é melhor que um prodígio instável"
 ##
 <div align="left">
   <a href="https://github.com/naiaranunes">
