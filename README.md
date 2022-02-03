@@ -1,5 +1,5 @@
 Oi!!! Eu sou Naiara Nunes👋
-- 👩‍💻 Estudando Linguagens para desenvolvmento Web
+- 👩‍💻 Estudando Web Design
 ##
 <div align="left">
   <a href="https://github.com/naiaranunes">
