@@ -1,5 +1,5 @@
-👩‍💻Falaaa minha gracinhaa!! espero que esteja tudo maravilhosamente bem com você. <br>
-⚡Me chamo Naiara e sou aprendiz de programação Web. 
+👩‍💻Fala minha gracinhaa!! espero que esteja tudo maravilhosamente bem com você. <br>
+⚡Me chamo Naiara e sou aprendiz de programação Web. <br>
 ⚡Viciada em criar e resolver bugs.
 
 ##
