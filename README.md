@@ -1,5 +1,6 @@
-Oi!!! Eu sou Naiara Nunes👋
-- 👩‍💻 Estudando Web Design
+👩‍💻Falaaa minha gracinhaa!! espero que esteja tudo maravilhosamente bem com você.
+☘️ Me chamo Naiara e sou aprendiz de programação Web. Viciada em criar e resolver bugs.
+
 ##
 <div align="left">
   <a href="https://github.com/naiaranunes">
