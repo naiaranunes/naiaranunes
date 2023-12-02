@@ -1,7 +1,4 @@
 👩‍💻Fala minha gracinhaa!! espero que esteja tudo maravilhosamente bem com você. <br>
-⚡Me chamo Naiara e sou aprendiz de programação Web. <br>
-⚡Viciada em criar e resolver bugs.
-
 ##
 <div align="left">
   <a href="https://github.com/naiaranunes">
