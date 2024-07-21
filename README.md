@@ -1,4 +1,4 @@
-👩‍💻Fala minha gracinhaa!! espero que esteja tudo maravilhosamente bem com você. <br>
+👩‍💻Olá, pessoas. <br>
 ##
 <div align="left">
   <a href="https://github.com/naiaranunes">
