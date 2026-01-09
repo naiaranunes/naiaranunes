@@ -1,31 +1,25 @@
 👩‍💻Olá, pessoas. <br>
-##
-<div align="left">
-  <a href="https://github.com/naiaranunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naiaranunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiaranunes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    
-##
-
+🖥️Técnica em Informática e Licencianda em Ciência da Computação pelo IFSertãoPE<br>
+🤖Dev Full Stack
 <div style="display: inline_block"><br>
-  <h1>Minhas Skills 😄 </h1>
-  <img align="center" alt="naiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="naiara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="naiara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="naiara-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="right" alt="pikachu" height="150" style="border-radius:50px;" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Pikachu-com-Fundo-Transparente.png">
-  
-</div>
-  
- ##
-  
-<div> 
- 	
- 
-  <a href = "mailto:nunesnaaiara@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/naiara-nunes-de-souza-b3bb8a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/nunes_naaiara" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+## 🚀 Tecnologias e Ferramentas
+
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Back-end / Lógica
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+### Banco de Dados
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+
+### Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
  ![Snake animation](https://github.com/naiaranunes/naiaranunes/blob/output/github-contribution-grid-snake.svg)
  
  
