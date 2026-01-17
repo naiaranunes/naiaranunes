@@ -1,6 +1,7 @@
-👩‍💻Olá, pessoas. <br>
+😊Olá, pessoas. <br>
 🖥️Técnica em Informática e Licencianda em Ciência da Computação pelo IFSertãoPE<br>
-🤖Dev Full Stack
+🤖Instrutora de Robotica <br>
+👩‍💻Dev Full Stack <br>
 <div style="display: inline_block"><br>
 ## 🚀 Tecnologias e Ferramentas
 
